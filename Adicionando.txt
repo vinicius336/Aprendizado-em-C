@@ -1,3 +1,0 @@
-Testando adicionar este arquivo
-
-Comando usado: git commit adicionando.txt -m "novo arquivo apenas com git commit"
